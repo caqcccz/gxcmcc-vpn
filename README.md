@@ -1,3 +1,5 @@
+gxcmcc客户要求改造的vpn客户端，@mark注意保密并测试。
+
 解压密码：aW5mZWN0ZWQ= 
 
 对应网址：
